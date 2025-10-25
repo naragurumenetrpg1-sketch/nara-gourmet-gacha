@@ -7,19 +7,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
-```
-
-### 5. **src/App.jsx**（srcフォルダの中）
-既にアップロード済みですね！✅
-
----
-
-## フォルダ構成
-```
-nara-gourmet-gacha/
-├── package.json
-├── vite.config.js
-├── index.html
-└── src/
-    ├── main.jsx
-    └── App.jsx
